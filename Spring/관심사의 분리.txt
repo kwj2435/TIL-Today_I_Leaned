@@ -11,6 +11,7 @@ public class OrderServiceImpl implements OrderService {
 로미오 - 인터페이스, 배우 - 구현 클래스, 기획 담당자 - 설정 클래스
 
 구현 객체는 자신의 로직만을 실행한다. 프로그램의 제어권은 AppConfig(설정 클래스)에서 담당한다.
+- 설정 클래스에서 특정 역할을 맡을 배우를 정해주는 것
 
 
 
