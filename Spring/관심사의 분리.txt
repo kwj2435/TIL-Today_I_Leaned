@@ -1,0 +1,16 @@
+SOLID 법칙중 DIP 원칙을 구현하기 위해 역할기능의 Interface를 사용하게 되면 구현클래스가 없어 오류가 난다.
+
+public class OrderServiceImpl implements OrderService {
+	private DiscountPolicy discountPolicy;	// 인터페이스 DIP는 지켰으나, 구현클래스가 없어 에러가 남
+}
+
+이 문제를 해결 하기 위해 한가지 예를 들면
+로미오 역할은 어떤 배우가 하더라도 수행되어야 한다.
+로미오 역할에 어떤 배우가 선정될지는 공연 기획자가 담당 해야한다.
+
+로미오 - 인터페이스, 배우 - 구현 클래스, 기획 담당자 - 설정 클래스
+
+구현 객체는 자신의 로직만을 실행한다. 프로그램의 제어권은 AppConfig(설정 클래스)에서 담당한다.
+
+
+
