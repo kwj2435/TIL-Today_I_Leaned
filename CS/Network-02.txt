@@ -1,1 +1,6 @@
-URI(Uniform Resource Indentifier)
+HTTP(Hyper Text Transfer Protocol)
+ㄴ HTTP 메시지에 모든 것을 전송
+
+Stateless의 장점은 무한한 서버의 증설이 가능하다.
+ㄴ 무상태는 서버의 수평확장에 유리하다.ㅇ
+Stateful 의 경우 중간에 중계서버를 두고 통신하는 서버와 상태 유지를 위해 중계해줘야한다.
