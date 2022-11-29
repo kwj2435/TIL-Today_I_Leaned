@@ -7,7 +7,8 @@ OSI 7계층
   - 계층 위로 갈수록 Application(실제 프로그램)에 가까워지며, 아래로 내려 갈 수록 Physical(물리적 연결구간)에 가까워 진다.
     
   - 통신이 일어나는 과정을 각 단계별로 구분했기 때문에 통신 과정을 보다 쉽게 이해, 혹은 문제 발생시 쉽게 파악할 수 있게 된다.
-    ![](file:///Users/kimuijin/Library/Application%20Support/marktext/images/2022-11-29-23-32-42-image.png?msec=1669732362205)
+
+    ![image](https://user-images.githubusercontent.com/34668108/204557026-182099a1-b75e-49f9-89a5-42f1f33e1ab5.png)
     
 2. 계층별 설명
   
