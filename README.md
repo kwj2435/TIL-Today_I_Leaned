@@ -10,16 +10,18 @@
 ### 분류
 ***
 #### Common
+- [MSA](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/Common/MSA.md)
 #### CS
 - [ContextSwitch](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/CS/ContextSwitch.md)
-- [Semaphore와Mutex](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/CS/Semaphore와Mutex.md)
+- [Semaphore와Mutex](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/CS/Semaphore%EC%99%80%20Mutex.md)
 #### Database
-- [InnerJoin과 OuterJoin 차이](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/Database/InnerJoin과OuterJoin차이.md)
+- [InnerJoin과 OuterJoin 차이](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/Database/InnerJoin%EA%B3%BC%20OuterJoin%20%EC%B0%A8%EC%9D%B4.md)
 #### DataStructure
 - [Hash](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/DataStructure/Hash.md)
 - [Heap](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/DataStructure/Heap.md)
-- [일반 재귀와 꼬리 재귀](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/DataStructure/일반재귀와꼬리재귀.md)
+- [일반 재귀와 꼬리 재귀](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/DataStructure/%EC%9D%BC%EB%B0%98%20%EC%9E%AC%EA%B7%80%EC%99%80%20%EA%BC%AC%EB%A6%AC%20%EC%9E%AC%EA%B7%80.md)
 #### DesignPattern
+- [싱글톤(Singleton)](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/DesignPattern/%EC%8B%B1%EA%B8%80%ED%86%A4(Singleton).md)
 #### ElasticSearch
 #### Java
 #### Kotlin
@@ -28,6 +30,7 @@
 #### Spring
 - [DI(DependencyInjection)](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/Spring/DI(DependencyInjection).md)
 - [IOC(InversionOfControll)](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/Spring/IOC(InversionOfControll).md)
+- [Spring과 객체지향](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/Spring/Spring%EA%B3%BC%20%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5.txt)
 #### Spring Data JPA
 - [N+1 문제 및 해결](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/Spring%20Data%20JPA/N%2B1%20%EB%AC%B8%EC%A0%9C%20%EB%B0%8F%20%ED%95%B4%EA%B2%B0.md)
 
