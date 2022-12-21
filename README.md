@@ -11,12 +11,19 @@
 ***
 #### Common
 #### CS
+- [ContextSwitch](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/CS/ContextSwitch.md)
+- [Semaphore와Mutex](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/CS/Semaphore와Mutex.md)
 #### Database
+- [InnerJoin과 OuterJoin 차이](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/Database/InnerJoin과OuterJoin차이.md)
 #### DataStructure
+- [Hash](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/DataStructure/Hash.md)
+- [Heap](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/DataStructure/Heap.md)
+- [일반 재귀와 꼬리 재귀](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/DataStructure/일반재귀와꼬리재귀.md)
 #### DesignPattern
 #### ElasticSearch
 #### Java
 #### Kotlin
+- [ScopeFunction](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/Kotlin/ScopeFunction.md)
 #### Network
 #### Spring
 - [DI(DependencyInjection)](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/Spring/DI(DependencyInjection).md)
