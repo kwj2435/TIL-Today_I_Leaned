@@ -19,9 +19,9 @@
 #### Database
 - [InnerJoin과 OuterJoin 차이](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/Database/InnerJoin%EA%B3%BC%20OuterJoin%20%EC%B0%A8%EC%9D%B4.md)
 #### DataStructure
-- [Array, List, Map](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/DataStructure/Hash.md)
-- [Queue, Stack](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/DataStructure/Hash.md)
-- [Tree, Graph](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/DataStructure/Hash.md)
+- [Array, List, Map](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/DataStructure/Array%2C%20List%2C%20Map.md)
+- [Queue, Stack](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/DataStructure/Queue%2C%20Stack.md)
+- [Tree, Graph](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/DataStructure/Tree%2C%20Graph.md)
 - [Hash](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/DataStructure/Hash.md)
 - [Heap](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/DataStructure/Heap.md)
 - [일반 재귀와 꼬리 재귀](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/DataStructure/%EC%9D%BC%EB%B0%98%20%EC%9E%AC%EA%B7%80%EC%99%80%20%EA%BC%AC%EB%A6%AC%20%EC%9E%AC%EA%B7%80.md)
@@ -35,7 +35,7 @@
 #### Network
 - [HTTP와 HTTPS](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/Network/HTTP%EC%99%80%20HTTPS.md)
 #### Spring
-- [Annotation의 차이](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/Spring/DI(DependencyInjection).md)
+- [Annotation의 차이](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/Spring/Annotation%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)
 - [DI(DependencyInjection)](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/Spring/DI(DependencyInjection).md)
 - [IOC(InversionOfControll)](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/Spring/IOC(InversionOfControll).md)
 - [Spring과 객체지향](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/Spring/Spring%EA%B3%BC%20%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5.txt)
