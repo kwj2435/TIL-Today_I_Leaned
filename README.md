@@ -15,10 +15,13 @@
 - [MSA](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/Common/MSA.md)
 #### CS
 - [ContextSwitch](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/CS/ContextSwitch.md)
-- [Semaphore와Mutex](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/CS/Semaphore%EC%99%80%20Mutex.md)
+- [Semaphore와 Mutex](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/CS/Semaphore%EC%99%80%20Mutex.md)
 #### Database
 - [InnerJoin과 OuterJoin 차이](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/Database/InnerJoin%EA%B3%BC%20OuterJoin%20%EC%B0%A8%EC%9D%B4.md)
 #### DataStructure
+- [Array, List, Map](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/DataStructure/Hash.md)
+- [Queue, Stack](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/DataStructure/Hash.md)
+- [Tree, Graph](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/DataStructure/Hash.md)
 - [Hash](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/DataStructure/Hash.md)
 - [Heap](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/DataStructure/Heap.md)
 - [일반 재귀와 꼬리 재귀](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/DataStructure/%EC%9D%BC%EB%B0%98%20%EC%9E%AC%EA%B7%80%EC%99%80%20%EA%BC%AC%EB%A6%AC%20%EC%9E%AC%EA%B7%80.md)
@@ -26,12 +29,13 @@
 - [싱글톤(Singleton)](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/DesignPattern/%EC%8B%B1%EA%B8%80%ED%86%A4(Singleton).md)
 #### ElasticSearch
 #### Java
-- [오버로딩과 오버라이딩](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/Kotlin/ScopeFunction.md)
+- [오버로딩과 오버라이딩](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/Java/%EC%98%A4%EB%B2%84%EB%A1%9C%EB%94%A9%EA%B3%BC%20%EC%98%A4%EB%B2%84%EB%9D%BC%EC%9D%B4%EB%94%A9.md)
 #### Kotlin
 - [ScopeFunction](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/Kotlin/ScopeFunction.md)
 #### Network
-- [HTTP와 HTTPS](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/Kotlin/ScopeFunction.md)
+- [HTTP와 HTTPS](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/Network/HTTP%EC%99%80%20HTTPS.md)
 #### Spring
+- [Annotation의 차이](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/Spring/DI(DependencyInjection).md)
 - [DI(DependencyInjection)](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/Spring/DI(DependencyInjection).md)
 - [IOC(InversionOfControll)](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/Spring/IOC(InversionOfControll).md)
 - [Spring과 객체지향](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/Spring/Spring%EA%B3%BC%20%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5.txt)
