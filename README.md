@@ -29,11 +29,13 @@
 - [싱글톤(Singleton)](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/DesignPattern/%EC%8B%B1%EA%B8%80%ED%86%A4(Singleton).md)
 #### ElasticSearch
 #### Java
+- [String, StringBuilder, StringBuffer](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/Java/String%2C%20StringBuilder%2C%20StringBuffer.md)
 - [오버로딩과 오버라이딩](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/Java/%EC%98%A4%EB%B2%84%EB%A1%9C%EB%94%A9%EA%B3%BC%20%EC%98%A4%EB%B2%84%EB%9D%BC%EC%9D%B4%EB%94%A9.md)
 #### Kotlin
 - [ScopeFunction](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/Kotlin/ScopeFunction.md)
 #### Network
 - [HTTP와 HTTPS](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/Network/HTTP%EC%99%80%20HTTPS.md)
+- [TCP, UDP](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/Network/TCP%2C%20UDP.md)
 #### Spring
 - [Annotation의 차이](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/Spring/Annotation%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)
 - [DI(DependencyInjection)](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/Spring/DI(DependencyInjection).md)
