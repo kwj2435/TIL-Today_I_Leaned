@@ -27,6 +27,7 @@
 - [일반 재귀와 꼬리 재귀](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/DataStructure/%EC%9D%BC%EB%B0%98%20%EC%9E%AC%EA%B7%80%EC%99%80%20%EA%BC%AC%EB%A6%AC%20%EC%9E%AC%EA%B7%80.md)
 #### DesignPattern
 - [싱글톤(Singleton)](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/DesignPattern/%EC%8B%B1%EA%B8%80%ED%86%A4(Singleton).md)
+- [Builder](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/DesignPattern/Builder.md)
 #### ElasticSearch
 #### Java
 - [String, StringBuilder, StringBuffer](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/Java/String%2C%20StringBuilder%2C%20StringBuffer.md)
