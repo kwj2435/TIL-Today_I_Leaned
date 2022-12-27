@@ -26,12 +26,14 @@
 - [Heap](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/DataStructure/Heap.md)
 - [일반 재귀와 꼬리 재귀](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/DataStructure/%EC%9D%BC%EB%B0%98%20%EC%9E%AC%EA%B7%80%EC%99%80%20%EA%BC%AC%EB%A6%AC%20%EC%9E%AC%EA%B7%80.md)
 #### DesignPattern
+- [Template Method](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/DesignPattern/Template%20Method.md)
 - [싱글톤(Singleton)](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/DesignPattern/%EC%8B%B1%EA%B8%80%ED%86%A4(Singleton).md)
 - [Builder](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/DesignPattern/Builder.md)
 #### ElasticSearch
 #### Java
 - [String, StringBuilder, StringBuffer](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/Java/String%2C%20StringBuilder%2C%20StringBuffer.md)
 - [오버로딩과 오버라이딩](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/Java/%EC%98%A4%EB%B2%84%EB%A1%9C%EB%94%A9%EA%B3%BC%20%EC%98%A4%EB%B2%84%EB%9D%BC%EC%9D%B4%EB%94%A9.md)
+- [Reflection](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/Java/Reflection.md)
 #### Kotlin
 - [ScopeFunction](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/Kotlin/ScopeFunction.md)
 #### Network
