@@ -1,4 +1,4 @@
-###Array, List, Map
+## Array, List, Map
 
 1. **Array**
 - 인덱스의 개념을 가지고 있어 해당 인덱스를 가지고 데이터에 바로 접근 할 수 있다.

@@ -6,7 +6,6 @@
 ####
 ### 작성 규칙
 ***
-- 폴더와 파일명은 영문으로 작성
 - 해당 문서를 다시 봤을 때, 추가적인 검색 비용이 들지 않도록 자세히 기록한다.
 
 ### 분류
@@ -27,12 +26,12 @@
 - [일반 재귀와 꼬리 재귀](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/DataStructure/%EC%9D%BC%EB%B0%98%20%EC%9E%AC%EA%B7%80%EC%99%80%20%EA%BC%AC%EB%A6%AC%20%EC%9E%AC%EA%B7%80.md)
 #### DesignPattern
 - [Template Method](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/DesignPattern/Template%20Method.md)
-- [싱글톤(Singleton)](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/DesignPattern/%EC%8B%B1%EA%B8%80%ED%86%A4(Singleton).md)
+- [Singleton](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/DesignPattern/%EC%8B%B1%EA%B8%80%ED%86%A4(Singleton).md)
 - [Builder](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/DesignPattern/Builder.md)
 #### ElasticSearch
 #### Java
 - [String, StringBuilder, StringBuffer](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/Java/String%2C%20StringBuilder%2C%20StringBuffer.md)
-- [오버로딩과 오버라이딩](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/Java/%EC%98%A4%EB%B2%84%EB%A1%9C%EB%94%A9%EA%B3%BC%20%EC%98%A4%EB%B2%84%EB%9D%BC%EC%9D%B4%EB%94%A9.md)
+- [Overloading, Overriding](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/Java/%EC%98%A4%EB%B2%84%EB%A1%9C%EB%94%A9%EA%B3%BC%20%EC%98%A4%EB%B2%84%EB%9D%BC%EC%9D%B4%EB%94%A9.md)
 - [Reflection](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/Java/Reflection.md)
 #### Kotlin
 - [ScopeFunction](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/Kotlin/ScopeFunction.md)
@@ -45,7 +44,7 @@
 - [IOC(InversionOfControll)](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/Spring/IOC(InversionOfControll).md)
 - [Spring과 객체지향](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/Spring/Spring%EA%B3%BC%20%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5.txt)
 #### Spring Data JPA
-- [N+1 문제 및 해결](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/Spring%20Data%20JPA/N%2B1%20%EB%AC%B8%EC%A0%9C%20%EB%B0%8F%20%ED%95%B4%EA%B2%B0.md)
+- [N+1 Problem and Solve](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/Spring%20Data%20JPA/N%2B1%20%EB%AC%B8%EC%A0%9C%20%EB%B0%8F%20%ED%95%B4%EA%B2%B0.md)
 
 
 
