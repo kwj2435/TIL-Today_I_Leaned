@@ -14,6 +14,7 @@
 - [MSA](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/Common/MSA.md)
 #### CS
 - [ContextSwitch](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/CS/ContextSwitch.md)
+- [DeadLock](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/CS/DeadLock.md)
 - [Semaphore와 Mutex](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/CS/Semaphore%EC%99%80%20Mutex.md)
 #### Database
 - [InnerJoin과 OuterJoin 차이](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/Database/InnerJoin%EA%B3%BC%20OuterJoin%20%EC%B0%A8%EC%9D%B4.md)
@@ -25,6 +26,7 @@
 - [Heap](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/DataStructure/Heap.md)
 - [일반 재귀와 꼬리 재귀](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/DataStructure/%EC%9D%BC%EB%B0%98%20%EC%9E%AC%EA%B7%80%EC%99%80%20%EA%BC%AC%EB%A6%AC%20%EC%9E%AC%EA%B7%80.md)
 #### DesignPattern
+- [Factory Method](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/DesignPattern/Factory%20Method.md)
 - [Template Method](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/DesignPattern/Template%20Method.md)
 - [Singleton](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/DesignPattern/%EC%8B%B1%EA%B8%80%ED%86%A4(Singleton).md)
 - [Builder](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/DesignPattern/Builder.md)
