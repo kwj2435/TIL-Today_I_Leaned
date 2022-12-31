@@ -39,6 +39,7 @@
 - [ScopeFunction](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/Kotlin/ScopeFunction.md)
 #### Network
 - [HTTP와 HTTPS](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/Network/HTTP%EC%99%80%20HTTPS.md)
+- [브라우저 동작 순서](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/Network/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%20%EB%8F%99%EC%9E%91%20%EC%88%9C%EC%84%9C.md)
 - [TCP, UDP](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/Network/TCP%2C%20UDP.md)
 #### Spring
 - [Annotation의 차이](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/Spring/Annotation%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)
