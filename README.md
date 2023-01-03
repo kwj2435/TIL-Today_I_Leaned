@@ -11,6 +11,7 @@
 ### 분류
 ***
 #### Common
+- [SOLID](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/Common/SOLID.md)
 - [MSA](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/Common/MSA.md)
 #### CS
 - [ContextSwitch](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/CS/ContextSwitch.md)
