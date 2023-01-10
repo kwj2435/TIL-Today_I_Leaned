@@ -32,6 +32,8 @@
 - [Singleton](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/DesignPattern/%EC%8B%B1%EA%B8%80%ED%86%A4(Singleton).md)
 - [Builder](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/DesignPattern/Builder.md)
 #### ElasticSearch
+#### Redis
+- [[NHN FORWARD 2021] Redis 야무지게 사용하기](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/Redis/%5BNHN%20FORWARD%202021%5D%20Redis%20%EC%95%BC%EB%AC%B4%EC%A7%80%EA%B2%8C%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0.md)
 #### Java
 - [String, StringBuilder, StringBuffer](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/Java/String%2C%20StringBuilder%2C%20StringBuffer.md)
 - [Overloading, Overriding](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/Java/%EC%98%A4%EB%B2%84%EB%A1%9C%EB%94%A9%EA%B3%BC%20%EC%98%A4%EB%B2%84%EB%9D%BC%EC%9D%B4%EB%94%A9.md)
