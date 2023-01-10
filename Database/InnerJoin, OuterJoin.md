@@ -1,3 +1,5 @@
+### 조인 별 정리
+
 1. InnerJoin
 - Table A와 Table B에 대한 교집합을 조회
 

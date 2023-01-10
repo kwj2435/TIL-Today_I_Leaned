@@ -18,7 +18,7 @@
 - [DeadLock](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/CS/DeadLock.md)
 - [Semaphore와 Mutex](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/CS/Semaphore%EC%99%80%20Mutex.md)
 #### Database
-- [InnerJoin과 OuterJoin 차이](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/Database/InnerJoin%EA%B3%BC%20OuterJoin%20%EC%B0%A8%EC%9D%B4.md)
+- [InnerJoin과 OuterJoin 차이](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/Database/InnerJoin%2C%20OuterJoin.md)
 #### DataStructure
 - [Array, List, Map](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/DataStructure/Array%2C%20List%2C%20Map.md)
 - [Queue, Stack](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/DataStructure/Queue%2C%20Stack.md)
