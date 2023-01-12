@@ -48,7 +48,7 @@
 - [TCP, UDP](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/Network/TCP%2C%20UDP.md)
 #### Spring
 - [Annotation의 차이](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/Spring/Annotation%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)
-- [Spring DI 3가지 방식](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/Spring/Annotation%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)
+- [Spring DI 3가지 방식](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/Spring/Spring%20DI%203%EA%B0%80%EC%A7%80%EB%B0%A9%EC%8B%9D.md)
 - [DI(DependencyInjection)](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/Spring/DI(DependencyInjection).md)
 - [IOC(InversionOfControll)](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/Spring/IOC(InversionOfControll).md)
 - [Spring과 객체지향](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/Spring/Spring%EA%B3%BC%20%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5.txt)
