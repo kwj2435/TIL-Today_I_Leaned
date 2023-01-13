@@ -29,7 +29,7 @@
 #### DesignPattern
 - [Factory Method](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/DesignPattern/Factory%20Method.md)
 - [Template Method](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/DesignPattern/Template%20Method.md)
-- [Singleton](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/DesignPattern/%EC%8B%B1%EA%B8%80%ED%86%A4(Singleton).md)
+- [Singleton](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/DesignPattern/Singleton.md)
 - [Builder](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/DesignPattern/Builder.md)
 #### ElasticSearch
 #### Redis
