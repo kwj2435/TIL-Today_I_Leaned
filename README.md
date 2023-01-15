@@ -51,7 +51,7 @@
 - [Spring DI 3가지 방식](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/Spring/Spring%20DI%203%EA%B0%80%EC%A7%80%EB%B0%A9%EC%8B%9D.md)
 - [DI(DependencyInjection)](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/Spring/DI(DependencyInjection).md)
 - [IOC(InversionOfControll)](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/Spring/IOC(InversionOfControll).md)
-- [Spring Container](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/Spring/IOC(InversionOfControll).md)
+- [Spring Container](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/Spring/Spring%20Container.md)
 - [Spring과 객체지향](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/Spring/Spring%EA%B3%BC%20%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5.txt)
 #### Spring Data JPA
 - [N+1 Problem and Solve](https://github.com/kwj2435/TIL-Today_I_Leaned/blob/main/Spring%20Data%20JPA/N%2B1%20%EB%AC%B8%EC%A0%9C%20%EB%B0%8F%20%ED%95%B4%EA%B2%B0.md)
