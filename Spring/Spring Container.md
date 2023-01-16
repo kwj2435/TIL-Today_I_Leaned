@@ -15,4 +15,4 @@
 
 BeanFactory와 ApplicationContext는 빈의 로딩시점에서도 차이를 가지고 있다.  
 BeanFactory의 경우 Bean의 사용이 필요로 하는 시점에 객체를 생성하여 전달하는 방식인 반면 ApplicationContext는 미리 Bean을 모두 생성해두고 필요애 따라 전달하는 구조이다.
-> https://steady-coding.tistory.com/459
+> https://steady-coding.tistory.com/459 
