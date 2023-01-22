@@ -29,4 +29,6 @@ Isolation Level 종류
 - Serializable (레벨 3)
   - 다른 사용자는 트랜잭션 영역에 해당되는 데이터에 대한 수정 및 읽기 불가능
 ### Propagation
+스프링에서 사용하는 @Transactional 어노테이션은 해당 메서드에 대해 트랜잭션 처리를 지원해주는 역할을 한다.  
+이때 트랜잭션 내부에서 다른 트랜잭션을 호출하게 됐을 때 Propagation은 스프링에서 트랜잭션 처리를 어떻게 할지를 정하는 역할을 한다.
 ### Spring @Transactional 어노테이션
