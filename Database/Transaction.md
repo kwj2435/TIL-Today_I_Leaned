@@ -31,4 +31,4 @@ Isolation Level 종류
 ### Propagation
 스프링에서 사용하는 @Transactional 어노테이션은 해당 메서드에 대해 트랜잭션 처리를 지원해주는 역할을 한다.  
 이때 트랜잭션 내부에서 다른 트랜잭션을 호출하게 됐을 때 Propagation은 스프링에서 트랜잭션 처리를 어떻게 할지를 정하는 역할을 한다.
-### Spring @Transactional 어노테이션 
+### Spring @Transactional 어노테이션  
